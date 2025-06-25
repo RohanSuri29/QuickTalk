@@ -37,7 +37,6 @@ function Signup() {
 
         try{
 
-            console.log(data)
             const response = await apiconnector('POST' , authEndpoints.User_signup_api , data);
 
             if(!response?.data?.success){
