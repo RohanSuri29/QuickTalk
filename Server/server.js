@@ -8,7 +8,6 @@ const initializeSocket = require('./socket');
 
 //importing function to connect database
 const dbConnect = require('./config/database');
-const cloudinaryConnect = require('./config/cloudinary');
 
 //importing routes
 const authRoutes = require('./routes/authRoutes');
@@ -46,4 +45,3 @@ app.get('/' , (req , res) => {
 })
 
 dbConnect();
-cloudinaryConnect();
