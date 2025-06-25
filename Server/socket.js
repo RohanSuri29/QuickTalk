@@ -146,7 +146,7 @@ function initializeSocket (server) {
     //creating instance of io
     io = socketIo(server , {
         cors:{
-            origin: "*",
+            origin: "https://quick-talk-two.vercel.app",
             methods: ["GET" , "POST"]
         }
     })
