@@ -605,7 +605,7 @@ function Project() {
 
                                 <div className="h-full min-w-[30%] max-w-[55%] overflow-auto p-5 bg-gradient-to-b from-slate-900 via-indigo-800 to-violet-700">
 
-                                    <div className="h-fit w-full bg-purple-200 rounded-2xl p-5">
+                                    <div className="h-fit w-fit bg-purple-200 rounded-2xl p-5">
 
                                         <Markdown options={{overrides:{code:SyntaxHighlightedCode}}}>{aiResponse}</Markdown>
 
