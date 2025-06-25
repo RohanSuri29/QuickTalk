@@ -57,7 +57,7 @@ exports.resetPasswordTemplate = (url, name) => {
     <body>
         <div class="container">
             <a href="https://quick-talk-two.vercel.app/login"><img class="logo"
-                src="../../public/logo.png" alt="QuickTalk Logo"></a>
+                src="https://quick-talk-two.vercel.app/logo.png" alt="QuickTalk Logo"></a>
             <div class="message">Password Update Confirmation</div>
             <div class="body">
                 <p>Hey ${name},</p>
