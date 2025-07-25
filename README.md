@@ -54,7 +54,11 @@ QuickTalk is an AI-powered, real-time collaborative chat and coding platform des
 
 ---
 
-💡 **Project Goals**
+## 🌐 Live Demo
+
+🔗 Deployed Link: https://quick-talk-two.vercel.app/
+
+## 💡Project Goals
 
 QuickTalk was built to streamline collaborative development and integrate AI directly into the developer workflow. By combining real-time communication with powerful AI tools, developers can:
 
@@ -66,7 +70,11 @@ QuickTalk was built to streamline collaborative development and integrate AI dir
 
 - Eliminate the context-switching between chat apps, code editors, and AI tools
 
-📫 **Contact**
+## 📝 License
+
+This project is for personal and educational use. All rights reserved.
+
+## 📫 Contact
 
 Made with ❤️ by Rohan Suri
 [LinkedIn](https://www.linkedin.com/in/rohan-suri-72ba73297/) | [Email](mailto:rohansuri2906@gmail.com)
